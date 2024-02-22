@@ -10,10 +10,8 @@ The Financial Text Classifier is a Python-based tool for categorizing textual da
 - **Customizable**: Allows for easy customization of input/output file paths and model configurations to suit specific needs.
 
 ## Dependencies
-- Python 3.x
+- Python3
 - pandas
 - scikit-learn
 - pickle
 
-## Usage
-1. **Install Dependencies**: Ensure that Python 3.x is installed on your system. You can install the required Python packages using pip:
