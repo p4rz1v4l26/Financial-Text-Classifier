@@ -1,4 +1,4 @@
-# Financial Text Classifier
+# FinInsight -Financial Text Classifier
 
 ## Overview
 The Financial Text Classifier is a Python-based tool for categorizing textual data in the financial domain. It utilizes machine learning techniques, specifically text classification, to assign relevant categories to financial text inputs. This tool can be useful in various applications such as sentiment analysis, topic modeling, and information retrieval within the finance industry.
